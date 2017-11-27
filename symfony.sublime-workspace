@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color_seleccionado\tproperty"
+			],
+			[
+				"h",
+				"hr\t<hr>"
+			],
+			[
+				"st",
+				"strong\t<strong>"
+			],
+			[
+				"u",
+				"ul\t<ul>"
+			],
+			[
+				"t",
+				"trabajador_externo\tproperty"
+			],
+			[
+				"empl",
+				"employees\tproperty"
+			],
+			[
+				"tem",
+				"templateUrl\tproperty"
+			],
+			[
+				"arra",
+				"arrayWords"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"getNumber",
+				"getNumberVowels"
+			],
+			[
+				"boots",
+				"bootstrap"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"la",
+				"label\tTag"
+			],
+			[
+				"php",
+				"phpcs"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alejandro/Documents/Ejercicios-Tutoriales/PHP/symfony"
+	],
+	"file_history":
+	[
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-binaries/php/php704vc14x86x170214082803/php.ini",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-binaries/php/php5619vc11x86x170214082803/php.ini",
+		"/C/Users/Alejandro/Documents/Ejercicios-Tutoriales/Angular/AngularFS/src/app/Fruta/fruta.component.ts",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/phpSyllable-master/classes/Syllable.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/Tutorial PHP/Readability.php",
+		"/C/Users/Alejandro/Documents/Tutoriales/Bootstrap 3/tuto2local.html",
+		"/C/Users/Alejandro/Documents/Tutoriales/Bootstrap 3/tuto1.html",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/Tutorial PHP/tutoConstantes.php",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/User/bootstrapConfig.sublime-snippet",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/User/hello.sublime-snippet",
+		"/C/Program Files/Sublime Text 3/sublime.py",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/User/snipper.sublime-snippet",
+		"/C/Users/Alejandro/Downloads/Nueva carpeta/lsproductsconfigurator/images/index.php",
+		"/C/Users/Alejandro/Downloads/Prestashop1.6/Suggested Plugins/oneallsociallogin/oneallsociallogin.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/Tutorial PHP/Login/templates/login.tpl",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/Tutorial PHP/Login/Login.php",
+		"/D/Linux/Comandos utiles/Instalacion de programas",
+		"/D/Linux/Comandos utiles/Comandos Active Record-ROR",
+		"/D/Linux/Comandos utiles/Comando rails",
+		"/D/Linux/Comandos utiles/Anotaciones ROR",
+		"/C/Users/Alejandro/Desktop/public_html/modules/lsproductsconfigurator/AjaxController.php",
+		"/C/Users/Alejandro/PBozaak/testpshop/Adapter/Adapter_AddressFactory.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/js/jquery/LICENSE",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/themes/tema-bootstrap/css/global.css",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/themes/default-bootstrap/css/product.css",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/modules/thegiftcard/sql/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/themes/default-bootstrap/js/modules/blocklayered/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/css/retro-compat.css.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/css/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/Tutorial PHP/Login/templates/index.tpl",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/Tutorial PHP/Motoneta.php",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/Tutorial PHP/Conexion.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/Tutorial PHP/Clase.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/Tutorial PHP/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/Tutorial PHP/index",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/modules/thegiftcard/views/templates/admin/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/modules/thegiftcard/views/templates/front/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/modules/thegiftcard/views/templates/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/modules/thegiftcard/views/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/controllers/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/controllers/front/AddressController.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/Estandares de Desarrollo PHP/PHP_Beautifier-0.1.15/examples/run_me.php",
+		"/C/Users/Alejandro/Downloads/Nueva carpeta/PHP_CodeSniffer-2.8.0/CodeSniffer.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/Estandares de Desarrollo PHP/PHP_CodeSniffer-2.8.0/CodeSniffer.php",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/modules/thegiftcard/controllers/front/page.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/modules/thegiftcard/controllers/front/index.php",
+		"/C/Users/Alejandro/Downloads/thegiftcard/views/js/tools/jquery.fileupload.js",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/modules/thegiftcard/controllers/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/init.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/config/settings.inc.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/config/config.inc.php",
+		"/C/Users/Alejandro/Downloads/thegiftcard/views/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/admin281x28ugb/index.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/admin281x28ugb/password.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/classes/db/DbPDO.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/admin281x28ugb/login.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/admin281x28ugb/ajax.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/classes/db/DbMySQLi.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/prestashop/config/defines.inc.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-www/phpinfo.php",
+		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-binaries/httpserver/apache2418vc11x86x170214082803/htdocs/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"extension",
+			"extendion",
+			"extension_dir",
+			"disable-tls",
+			"#",
+			"splitText",
+			"mb_split",
+			"olympic_medal_counts_df",
+			"max_input_vars",
+			"100"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 276.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "symfony.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 367.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
