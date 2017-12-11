@@ -6,3 +6,5 @@ user_new:
 #El controlador va ser AppBundle    
 #User es la clase del controlador
 #New es el metodo
+#use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
+
