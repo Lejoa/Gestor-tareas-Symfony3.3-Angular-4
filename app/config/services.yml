@@ -33,3 +33,16 @@ services:
     # AppBundle\Service\ExampleService:
     #     arguments:
     #         $someArgument: 'some_value'
+    AppBundle\Services\Helpers:
+        public: true
+    #Siendo el servicio publico lo podemos utilizar en cualquier controlador      
+        arguments:
+            $manager: '@doctrine.orm.entity_manager'
+    #Es un alias de servicio de doctrine
+
+    AppBundle\Services\JwtAuth:
+        public: true
+    #Se agrega el servicio de JwtAuth teniendo en cuenta la clase creada     
+        arguments:
+            $manager: '@doctrine.orm.entity_manager'
+    

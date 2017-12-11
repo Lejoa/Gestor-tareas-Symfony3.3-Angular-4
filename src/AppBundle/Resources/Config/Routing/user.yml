@@ -1,0 +1,8 @@
+#Nombre de la ruta
+user_new:
+    path: /new
+    defaults: { _controller: "AppBundle:User:new" }
+    methods: POST
+#El controlador va ser AppBundle    
+#User es la clase del controlador
+#New es el metodo

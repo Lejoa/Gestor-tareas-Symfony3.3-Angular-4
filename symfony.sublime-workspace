@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"C",
+				"Component"
+			],
+			[
+				"decode",
+				"decoded"
+			],
+			[
+				"email",
+				"emailConstraint"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"en",
+				"encoders"
+			],
+			[
+				"USE",
+				"users"
+			],
+			[
 				"col",
 				"color_seleccionado\tproperty"
 			],
@@ -63,6 +87,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/AppBundle/Controller/UserController.php",
+			"settings":
+			{
+				"buffer_size": 375,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/AppBundle/Resources/Config/routing.yml",
+			"settings":
+			{
+				"buffer_size": 406,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/AppBundle/Resources/Config/Routing/user.yml",
+			"settings":
+			{
+				"buffer_size": 202,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -136,10 +187,28 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Alejandro/Documents/Ejercicios-Tutoriales/PHP/symfony"
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/app/Resources",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/app/Resources/views",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/app/config",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/AppBundle",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/AppBundle/Controller",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/AppBundle/Resources",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/AppBundle/Resources/Config",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/AppBundle/Resources/Config/Routing",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/BackendBundle",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/BackendBundle/Entity"
 	],
 	"file_history":
 	[
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/AppBundle/Services/JwtAuth.php",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/app/config/parameters.yml",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/AppBundle/Controller/DefaultController.php",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/app/config/services.yml",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/AppBundle/Resources/Config/Routing/default.yml",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/src/AppBundle/Services/Helpers.php",
+		"/home/alejandro/Ejercicios Frameworks/Gestor-tareas-Symfony3.3-Angular-4/app/config/config.yml",
 		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-binaries/php/php704vc14x86x170214082803/php.ini",
 		"/C/Program Files (x86)/EasyPHP-Devserver-16.1/eds-binaries/php/php5619vc11x86x170214082803/php.ini",
 		"/C/Users/Alejandro/Documents/Ejercicios-Tutoriales/Angular/AngularFS/src/app/Fruta/fruta.component.ts",
@@ -208,7 +277,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -249,8 +318,93 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/AppBundle/Controller/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/AppBundle/Resources/Config/routing.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/AppBundle/Resources/Config/Routing/user.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -337,9 +491,9 @@
 	},
 	"show_minimap": false,
 	"show_open_files": true,
-	"show_tabs": false,
+	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 367.0,
+	"side_bar_width": 228.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
