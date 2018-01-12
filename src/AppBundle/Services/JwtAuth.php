@@ -59,14 +59,14 @@ Class JwtAuth
 
 			$data = array(
 					'status' => 'error',
-					'user' => 'Fail LOgin'
+					'data' => 'Fail Login!!!'
 					);
 		}
 
 		return $data;
 	}
 
-	public function checktoken($jwt,$identity=false)
+	public function checkToken($jwt,$identity=false)
     {
         #Debemos decodificar nuestro Token
         #Pasamos nuestro Token, la clave secreta para dcodificar y 

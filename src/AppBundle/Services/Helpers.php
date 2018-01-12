@@ -15,6 +15,9 @@ class Helpers
 		return "Hola Mundo desde mi servicio Symfony";
 	}
 
+	/*
+		Convierte un array de objetos a JSON
+	*/
 	public function json($data)
 	{
 		#El uso de las barras en las siguientes lineas son "namespaces".

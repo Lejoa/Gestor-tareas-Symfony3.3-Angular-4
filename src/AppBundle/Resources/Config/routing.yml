@@ -9,3 +9,6 @@ app_user:
     #del controlador de usuario tengan un prefijo en esa url
     #Todas las acciones que tengamos con nuestro controlador
     #sus rutas iran precedidas por /user
+app_task:
+      resource: "@AppBundle/Resources/Config/Routing/task.yml"
+      prefix: /task

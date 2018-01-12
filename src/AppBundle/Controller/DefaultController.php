@@ -12,6 +12,7 @@ use AppBundle\Services\JwtAuth;
 
 class DefaultController extends Controller
 {
+   
     
     public function indexAction(Request $request)
     {
@@ -47,28 +48,25 @@ class DefaultController extends Controller
             $emailConstraint->message = "This email is not valid";
             $validateEmail = $this->get("validator")->validate($email,$emailConstraint);
 
+            /*Cifrar contraseña*/
+            $pwd = hash('sha256',$password);
+
             if($email !=null && count($validateEmail) == 0 && $password != null){
 
                  $jwt_auth = $this->get(JwtAuth::class);
 
                  if($hash == null || $hash == false){
 
-                    $signup = $jwt_auth->signup($email,$password);
+                    $signup = $jwt_auth->signup($email,$pwd);
                  }else{
 
-                    $signup = $jwt_auth->signup($email,$password,true);
+                    $signup = $jwt_auth->signup($email,$pwd,true);
                  }
 
-                
-
-                 /*$data = array(
-                'status'=> 'success',
-                'data'=>'Email correct',
-                'signup' =>$signup
-                );
-                */
                 return $this->json($signup);
+
             }else{
+                
                 $data = array(
                     'status'=>'error',
                     'data'=>'Email or password incorrect'

@@ -1,11 +1,23 @@
+
 backend:
     resource: "@BackendBundle/Resources/config/routing.yml"
     prefix:   /backend
 
+#Configuración correcta pa el uso de archivos .yml
+#Propuesta por el tutorial de Victor Robles
 #app:
-#    resource: "@AppBundle/Resources/Config/Routing/default.yml"
-#    prefix: /
-    
+    #resource: "@AppBundle/Resources/Config/Routing/default.yml"
+    #prefix: /
+  
+
+#Configuración correcta pa el uso de archivos .yml
+# Corregida por Victor(SUDO)
 app:
-    resource: '@AppBundle/Resources/Config/routing.yml'
+    resource: "@AppBundle/Resources/Config/routing.yml"
     prefix: /
+
+#Configuración de routing a través notaciones
+#Propuesta por el tutorial de Victor Robles en inicios con Symfony
+#app:
+    #resource: "@AppBundle/Controller/"
+    #type: annotation
